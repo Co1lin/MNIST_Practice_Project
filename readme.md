@@ -1,3 +1,6 @@
+# Demo
+https://www.bilibili.com/video/av88086690/
+
 # Summary
 
 A handwriting number recognizer based on TensorFlow.
@@ -15,4 +18,3 @@ Run `demo1.py` in the directory under python3, TensorFlow 2 environment. Then yo
 If you want to train the model by yourself, you can run `train.py` on your own computer or on the CoLab by Google. You may learn how to copy the trained model to your Google Drive if you choose the last one.
 
 `img2arr.py` is an program that converts an image into an array which is the input of the neural network. It is intergreted into `ml.py` as a method.
-
