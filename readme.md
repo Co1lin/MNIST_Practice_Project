@@ -10,7 +10,7 @@ MNIST is the "`Hello, World`" in machine learning. I add an drawingboard, althou
 
 # Usage
 
-Run `demo1.py` in the directory under python3, TensorFlow 2 environment. Then you can write number on the drawingboard and every time your left button of your mouse up, the program will recognize the image on the board as a number and print the result in the terminal. What's more, press ESC to quit the program, and press C to clear the drawingboard.  
+Run `demo1.py` in the directory within python3, TensorFlow 2 environment. Then you can write number on the drawingboard and every time your left button of your mouse up, the program will recognize the image on the board as a number and print the result in the terminal. What's more, press ESC to quit the program, and press C to clear the drawingboard.  
 
 # More Detail
 
